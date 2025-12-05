@@ -1,7 +1,7 @@
 
 # PARCIAL-3-IA-APLICADA
 
-Integrantes: 
+Integrantes: Godwin Zuluaga, Jacobo Camargo, Nicolás Torres, Santiago Cobos.
 
 En este proyecto se desarrolló un sistema RAG para responder preguntas sobre el conflicto armado colombiano, mediante información del informe de la comisión de la verdad “Basta ya Colombia: Memorias de Guerra y Dignidad” que cuenta con alrededor de 430 páginas. Se escogió este documento ya que brinda un contexto general sobre todo lo ocurrido en la época del conflicto armado, por lo que puede esperarse que cualquier pregunta concreta que se tenga sobre este tema se encuentre en el documento. Esta es precisamente la intención que tenemos de este RAG, aumentar la posibilidad de obtener una misma versión ante una pregunta sobre esta época, para no tener que recurrir a muchas fuentes o perderse en la extensión del documento utilizado.  
 
